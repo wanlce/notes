@@ -2233,6 +2233,9 @@ blockquote footer cite:before {
   -webkit-box-shadow: 0 4px 12px 12px rgba(7,17,27,0.15);
   box-shadow: 0 4px 12px 12px rgba(7,17,27,0.15);
 }
+.v[data-class=v] .vpower {
+  display: none !important;
+}
 #recent-posts > .recent-post-item:not(:first-child) {
   margin-top: 1rem;
 }
@@ -3975,7 +3978,7 @@ img {
 .layout_post {
   margin: 0 auto;
   padding: 2rem 15px;
-  max-width: 1130px;
+  max-width: 1150px;
 }
 .layout_post img {
   display: block;
