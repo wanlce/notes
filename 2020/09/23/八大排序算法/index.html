@@ -211,7 +211,7 @@ if (autoChangeMode === '1') {
       appKey: 'tP7DtvAO6py3rq5A1EGDuHjk',
       placeholder: 'Please leave your footprints',
       avatar: 'monsterid',
-      meta: 'nick,mail,link'.split(','),
+      meta: 'nick,mail'.split(','),
       pageSize: '10',
       lang: 'en',
       recordIP: false,
@@ -225,7 +225,7 @@ if (autoChangeMode === '1') {
   }
 
   if (typeof Valine === 'function') initValine() 
-  else $.getScript('https://cdn.jsdelivr.net/npm/valine/dist/Valine.min.js', initValine)
+  else $.getScript('https://gitee.com/lovelijunyi/mycode/blob/master/Valine.min.js', initValine)
 }
 
 if ('Valine' === 'Valine' || !false) {
