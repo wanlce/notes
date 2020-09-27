@@ -209,7 +209,7 @@ if (autoChangeMode === '1') {
       el: '#vcomment',
       appId: 'BLfOoOVQ9vraRjlQWGtmFXoN-MdYXbMMI',
       appKey: 'tP7DtvAO6py3rq5A1EGDuHjk',
-      placeholder: 'nick可以只用输入QQ哟',
+      placeholder: 'nickname可以只用输入QQ哟',
       avatar: 'monsterid',
       meta: 'nick,mail'.split(','),
       pageSize: '10',
@@ -220,6 +220,9 @@ if (autoChangeMode === '1') {
       emojiMaps: "",
       enableQQ: true,
       path: window.location.pathname,
+      tagMeta: ["博主","访客"],     //标识字段名
+      master: ["a2c2b09a796e408f703a1955072d6abd"],   //博主邮箱md5
+//      friends:  ["fe01ce2a7fbac8fafaed7c982a04e229","fe01ce2a7fbac8fafaed7c982a04e229"],  //小伙伴邮箱Md5
     });
     if ('nick,mail') { valine.config.requiredFields= 'nick,mail'.split(',') }
   }
