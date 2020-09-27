@@ -214,14 +214,16 @@ if (autoChangeMode === '1') {
       meta: 'nick,mail'.split(','),
       pageSize: '10',
       lang: 'en',
-      recordIP: false,
+      recordIP: 'false',
       serverURLs: 'https://console.leancloud.app/',
       emojiCDN: '',
-      emojiMaps: "",
-      enableQQ: true,
+      emojiMaps: '""',
+      enableQQ: 'true',
       path: window.location.pathname,
-      tagMeta: ["博主","访客"],     //标识字段名
+      tagMeta: ["博主","伙伴","访客"],     //标识字段名
       master: ["a2c2b09a796e408f703a1955072d6abd"],   //博主邮箱md5
+      fridends: [""]
+
 //      friends:  ["fe01ce2a7fbac8fafaed7c982a04e229","fe01ce2a7fbac8fafaed7c982a04e229"],  //小伙伴邮箱Md5
     });
     if ('nick,mail') { valine.config.requiredFields= 'nick,mail'.split(',') }
