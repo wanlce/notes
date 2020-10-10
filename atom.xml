@@ -6,7 +6,7 @@
   <link href="http://wano.pro/atom.xml" rel="self"/>
   
   <link href="http://wano.pro/"/>
-  <updated>2020-10-09T09:39:30.291Z</updated>
+  <updated>2020-10-10T01:23:05.723Z</updated>
   <id>http://wano.pro/</id>
   
   <author>
@@ -17,9 +17,22 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>len_java</title>
+    <link href="http://wano.pro/undefined/len-java/"/>
+    <id>http://wano.pro/undefined/len-java/</id>
+    <published>2020-10-10T01:23:05.000Z</published>
+    <updated>2020-10-10T01:23:05.723Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>八大排序算法</title>
-    <link href="http://wano.pro/alg/%E5%85%AB%E5%A4%A7%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/"/>
-    <id>http://wano.pro/alg/%E5%85%AB%E5%A4%A7%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</id>
+    <link href="http://wano.pro/alg/sort/"/>
+    <id>http://wano.pro/alg/sort/</id>
     <published>2020-09-23T12:32:00.125Z</published>
     <updated>2020-10-09T09:39:30.291Z</updated>
     
