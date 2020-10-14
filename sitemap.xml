@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://wano.pro/null/Singleton/</loc>
-    
-    <lastmod>2020-10-14</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://wano.pro/null/note1-Scala/</loc>
     
     <lastmod>2020-10-14</lastmod>
@@ -36,6 +29,13 @@
     
   </url>
   
+  <url>
+    <loc>http://wano.pro/Java/Singleton/</loc>
+    
+    <lastmod>2020-03-14</lastmod>
+    
+  </url>
+  
 
   <url>
     <loc>http://wano.pro/</loc>
@@ -46,6 +46,13 @@
 
   
   <url>
+    <loc>http://wano.pro/tags/Singleton/</loc>
+    <lastmod>2020-10-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://wano.pro/tags/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2020-10-14</lastmod>
     <changefreq>daily</changefreq>
@@ -53,6 +60,13 @@
   </url>
   
 
+  
+  <url>
+    <loc>http://wano.pro/categories/Design-Patterns/</loc>
+    <lastmod>2020-10-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
   <url>
     <loc>http://wano.pro/categories/%E7%AE%97%E6%B3%95/</loc>
