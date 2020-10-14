@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://wano.pro/undefined/len-java/</loc>
+    <loc>http://wano.pro/null/Singleton/</loc>
     
-    <lastmod>2020-10-10</lastmod>
+    <lastmod>2020-10-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wano.pro/null/note1-Scala/</loc>
+    
+    <lastmod>2020-10-14</lastmod>
     
   </url>
   
   <url>
     <loc>http://wano.pro/alg/sort/</loc>
     
-    <lastmod>2020-10-09</lastmod>
+    <lastmod>2020-10-14</lastmod>
     
   </url>
   
@@ -32,7 +39,7 @@
 
   <url>
     <loc>http://wano.pro/</loc>
-    <lastmod>2020-10-10</lastmod>
+    <lastmod>2020-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -40,7 +47,7 @@
   
   <url>
     <loc>http://wano.pro/tags/%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2020-10-10</lastmod>
+    <lastmod>2020-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -49,7 +56,7 @@
   
   <url>
     <loc>http://wano.pro/categories/%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2020-10-10</lastmod>
+    <lastmod>2020-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
