@@ -6,7 +6,7 @@
   <link href="http://wano.pro/atom.xml" rel="self"/>
   
   <link href="http://wano.pro/"/>
-  <updated>2020-10-14T12:34:16.146Z</updated>
+  <updated>2020-10-14T13:14:29.118Z</updated>
   <id>http://wano.pro/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Scala学习笔记</title>
-    <link href="http://wano.pro/null/note1-Scala/"/>
-    <id>http://wano.pro/null/note1-Scala/</id>
+    <link href="http://wano.pro/scala/note1-Scala/"/>
+    <id>http://wano.pro/scala/note1-Scala/</id>
     <published>2020-10-12T02:31:10.000Z</published>
-    <updated>2020-10-14T12:34:16.146Z</updated>
+    <updated>2020-10-14T13:14:29.118Z</updated>
     
     <content type="html"><![CDATA[<h3 id="scala基础"><a href="#scala基础" class="headerlink" title="scala基础"></a>scala基础</h3><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/wanlce/pis-go-picture/raw/master/img/20201012143553.png"></p><p><strong>var和val的区别</strong></p><ol><li>内容是否可变</li><li>val修饰的变量在编译后，等同于加上final</li><li>是否可以有lazy修饰，val修饰的变量可以用lazy修饰</li></ol><p><strong>var声明一个变量</strong></p><ul><li>内容和引用都可以变</li></ul><p><strong>val声明一个变量</strong></p><ul><li>val修饰的变量是不可变的 <strong>不可变的不是内容，是引用</strong></li></ul><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/wanlce/Picture/imgse925d42514cbabdea80312148713e96d48195992.png"></p><p>异步 多个线程 互相不影响<br>同步 等待</p><p>$伴生对象  单例实现static<br> 伴生类</p><p> 方法 方法名称 形参 返回类型</p><p> 伴生对象</p><ul><li>伴随类产生的对象</li><li>在scala中,没有static关键字,通过伴生对象模拟static关键字的实现</li><li>当通过object 名称定义一个伴生对象的时候,默认底层会编译生成两个字节码文件,一个是伴生类,另一个是伴生对象所属类.实际上我们所说的伴生对象是伴生对象所属类中定义的一个单例对象.然后通过对象.的方式访问属性或者方法等<br>静态内容放在伴生对象中 $</li></ul><ol><li><p>Scala中一切数据都是对象,都是Any的子类.</p></li><li><p>Scala中数据类型分为两大类:数值类型(AnyVal)、引用类型(AnyRef),不管是值烈性还是引用类型都是对象</p></li><li><p>Scala数据类型仍然遵守,低精度的值类型向高精度类型,自动转换(隐式转换)</p></li><li><p>Scala中的StringOps是对java中String增强</p></li><li><p>Unit: 对应java中的void,用于方法返回值的位置,表示方法没有返回值.Unit是一个数据类型,只有一个对象的就是(). Void不是数据类型,知识一个关键字</p></li><li><p>Null是一个类型,只有一个对象就是null.它是所有引用类型(AnyRef)的子列</p></li><li><p><span style="color:red">Nothing,是所有数据类型的子类</span>,主要用在一个函数没有明确返回值时使用,因为这样我们可以把抛出的返回值,返回给任何的变量或者函数</p></li></ol>]]></content>
     
@@ -33,6 +33,10 @@
     
     
     
+    <category term="编程语言" scheme="http://wano.pro/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
+    
+    
+    <category term="scala" scheme="http://wano.pro/tags/scala/"/>
     
   </entry>
   
