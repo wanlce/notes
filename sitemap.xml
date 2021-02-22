@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://wano.pro/null/os/</loc>
+    <loc>http://wano.pro/study/os/</loc>
     
     <lastmod>2021-02-22</lastmod>
     
@@ -60,6 +60,13 @@
 
   
   <url>
+    <loc>http://wano.pro/tags/Singleton/</loc>
+    <lastmod>2021-02-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://wano.pro/tags/scala/</loc>
     <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
@@ -67,7 +74,7 @@
   </url>
   
   <url>
-    <loc>http://wano.pro/tags/Singleton/</loc>
+    <loc>http://wano.pro/tags/Os/</loc>
     <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -90,6 +97,13 @@
 
   
   <url>
+    <loc>http://wano.pro/categories/Design-Patterns/</loc>
+    <lastmod>2021-02-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://wano.pro/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</loc>
     <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
@@ -97,7 +111,7 @@
   </url>
   
   <url>
-    <loc>http://wano.pro/categories/Design-Patterns/</loc>
+    <loc>http://wano.pro/categories/Os/</loc>
     <lastmod>2021-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
