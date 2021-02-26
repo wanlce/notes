@@ -6,7 +6,7 @@
   <link href="http://wano.pro/atom.xml" rel="self"/>
   
   <link href="http://wano.pro/"/>
-  <updated>2021-02-26T04:16:09.134Z</updated>
+  <updated>2021-02-26T05:55:08.612Z</updated>
   <id>http://wano.pro/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>valine评论问题记录</title>
+    <link href="http://wano.pro/error/valine%E8%AF%84%E8%AE%BA%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/"/>
+    <id>http://wano.pro/error/valine%E8%AF%84%E8%AE%BA%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/</id>
+    <published>2021-02-26T05:50:50.000Z</published>
+    <updated>2021-02-26T05:55:08.612Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="问题描述"><a href="#问题描述" class="headerlink" title="问题描述"></a>问题描述</h3><blockquote><p>valine评论数据无法达到leandCloud ， request 请求失败 403错误</p></blockquote><h3 id="解决"><a href="#解决" class="headerlink" title="解决"></a>解决</h3><p><del>现在如果使用国际版LeanCloud作为Valine评论的后端的话则必须指定自定义服务器URL才能正常使用了。</del><br>通用域名us.avoscloud.com现在已经恢复正常，但是毕竟还是不稳定，还是推荐指定自定义服务器URL。<a href="https://forum.leancloud.cn/t/us-avoscloud-com/23415">LeanCloud官方已不推荐使用通用域名。</a></p><p>自定义服务器的URL需要到LeanCloud后台查看。打开后台之后进入Settings - App Keys，找到Domain whitelist，里面的Request domain里面的那个xxxxxxxx.api.lncldglobal.com就是你需要指定的服务器URL。其中xxxxxxxx就是各位的AppID的前8位字符。</p><p>NexT主题需要在主题的<code>_config.yml</code>找到<code>valine</code>的<code>serverURLs</code>，设置为：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">serverURLs: https:&#x2F;&#x2F;xxxxxxxx.api.lncldglobal.com # 把xxxxxxxx替换成你自己AppID的前8位字符</span><br></pre></td></tr></table></figure><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">更改前：</span><br><span class="line">GET https://us.avoscloud.com/1.1/classes/Comment?where=xxxxxx   net::ERR_TIMED_OUT</span><br><span class="line">更改后：</span><br><span class="line">GET https://gears233.github.io/posts/mail/xxxxx.api.lncldglobal.com/1.1/classes/Comment?where=xxxxxx</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;问题描述&quot;&gt;&lt;a href=&quot;#问题描述&quot; class=&quot;headerlink&quot; title=&quot;问题描述&quot;&gt;&lt;/a&gt;问题描述&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;valine评论数据无法达到leandCloud ， request 请求失败 403错误&lt;/p&gt;</summary>
+      
+    
+    
+    
+    
+    <category term="valine" scheme="http://wano.pro/tags/valine/"/>
+    
+  </entry>
   
   <entry>
     <title>MapReduce shuffle 和 Spark Shuffle</title>
