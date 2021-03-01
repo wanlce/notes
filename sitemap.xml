@@ -74,14 +74,14 @@
 
   
   <url>
-    <loc>http://wano.pro/tags/Git/</loc>
+    <loc>http://wano.pro/tags/Singleton/</loc>
     <lastmod>2021-03-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://wano.pro/tags/Singleton/</loc>
+    <loc>http://wano.pro/tags/Git/</loc>
     <lastmod>2021-03-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -109,14 +109,14 @@
   </url>
   
   <url>
-    <loc>http://wano.pro/tags/sort/</loc>
+    <loc>http://wano.pro/tags/shuffle/</loc>
     <lastmod>2021-03-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://wano.pro/tags/shuffle/</loc>
+    <loc>http://wano.pro/tags/sort/</loc>
     <lastmod>2021-03-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -125,14 +125,14 @@
 
   
   <url>
-    <loc>http://wano.pro/categories/Git/</loc>
+    <loc>http://wano.pro/categories/Design-Patterns/</loc>
     <lastmod>2021-03-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://wano.pro/categories/Design-Patterns/</loc>
+    <loc>http://wano.pro/categories/Git/</loc>
     <lastmod>2021-03-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -153,14 +153,14 @@
   </url>
   
   <url>
-    <loc>http://wano.pro/categories/%E7%AE%97%E6%B3%95/</loc>
+    <loc>http://wano.pro/categories/BigData/</loc>
     <lastmod>2021-03-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://wano.pro/categories/BigData/</loc>
+    <loc>http://wano.pro/categories/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2021-03-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
