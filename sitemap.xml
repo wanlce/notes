@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://wano.pro/alg/sort/</loc>
+    
+    <lastmod>2021-03-12</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://wano.pro/error/git%E7%AC%94%E8%AE%B0/</loc>
     
     <lastmod>2021-03-01</lastmod>
@@ -30,9 +37,9 @@
   </url>
   
   <url>
-    <loc>http://wano.pro/alg/sort/</loc>
+    <loc>http://wano.pro/ubuntu/%E8%A7%A3%E5%86%B3ubuntu%E5%8D%87%E7%BA%A7Kernel5-10%E5%90%8Evmware-workstation%E6%97%A0%E6%B3%95%E5%90%AF%E5%8A%A8%E9%97%AE%E9%A2%98-1/</loc>
     
-    <lastmod>2020-10-16</lastmod>
+    <lastmod>2020-12-23</lastmod>
     
   </url>
   
@@ -67,57 +74,64 @@
 
   <url>
     <loc>http://wano.pro/</loc>
-    <lastmod>2021-03-01</lastmod>
+    <lastmod>2021-03-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://wano.pro/tags/Singleton/</loc>
-    <lastmod>2021-03-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://wano.pro/tags/Git/</loc>
-    <lastmod>2021-03-01</lastmod>
+    <lastmod>2021-03-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://wano.pro/tags/scala/</loc>
-    <lastmod>2021-03-01</lastmod>
+    <lastmod>2021-03-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://wano.pro/tags/ubuntu%E3%80%81vmware/</loc>
+    <lastmod>2021-03-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://wano.pro/tags/Singleton/</loc>
+    <lastmod>2021-03-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://wano.pro/tags/valine/</loc>
-    <lastmod>2021-03-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://wano.pro/tags/Os/</loc>
-    <lastmod>2021-03-01</lastmod>
+    <lastmod>2021-03-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://wano.pro/tags/shuffle/</loc>
-    <lastmod>2021-03-01</lastmod>
+    <lastmod>2021-03-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://wano.pro/tags/Os/</loc>
+    <lastmod>2021-03-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://wano.pro/tags/sort/</loc>
-    <lastmod>2021-03-01</lastmod>
+    <lastmod>2021-03-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -125,43 +139,50 @@
 
   
   <url>
-    <loc>http://wano.pro/categories/Design-Patterns/</loc>
-    <lastmod>2021-03-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://wano.pro/categories/Git/</loc>
-    <lastmod>2021-03-01</lastmod>
+    <lastmod>2021-03-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://wano.pro/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</loc>
-    <lastmod>2021-03-01</lastmod>
+    <lastmod>2021-03-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://wano.pro/categories/Os/</loc>
-    <lastmod>2021-03-01</lastmod>
+    <loc>http://wano.pro/categories/ubuntu/</loc>
+    <lastmod>2021-03-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://wano.pro/categories/Design-Patterns/</loc>
+    <lastmod>2021-03-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://wano.pro/categories/BigData/</loc>
-    <lastmod>2021-03-01</lastmod>
+    <lastmod>2021-03-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://wano.pro/categories/Os/</loc>
+    <lastmod>2021-03-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://wano.pro/categories/%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2021-03-01</lastmod>
+    <lastmod>2021-03-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
